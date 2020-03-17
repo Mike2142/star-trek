@@ -1,6 +1,6 @@
 # star-trek
 
-доброго дня!
+Доброго дня!
 
 демонстрация react приложения: https://mike2142.github.io/star-trek/
 
