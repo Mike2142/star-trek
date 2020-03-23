@@ -1,5 +1,3 @@
-# star-trek
-
 добрый день!
 
 демонстрация react приложения: https://mike2142.github.io/star-trek/
